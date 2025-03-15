@@ -41,7 +41,7 @@ public class Main {
         }
 
         System.out.println("Thread1 is suspended");
-        th1.suspend();
+//        th1.suspend();
 
         System.out.println("Main thread is finishing its work");
     }
